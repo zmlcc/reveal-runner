@@ -1,0 +1,17 @@
+{
+  "name": "reveal-runner",
+  "version": "0.0.1",
+  "main": "main.ts",
+  "author": "zml",
+  "license": "WTFPL",
+  "bin": {
+    "reveal-runner": "./main.js"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "commander": "^2.19.0",
+    "express-es6-template-engine": "^2.1.7",
+    "fs-extra": "^7.0.1",
+    "gray-matter": "^4.0.2"
+  }
+}
